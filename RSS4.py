@@ -36,7 +36,7 @@ def extract_items(page):
 
     page.wait_for_selector("div#main_content dd", timeout=10000) 
     
-    selector = "div#main_content li"
+    selector = "div#main_content dd"
     blocks = page.locator(selector)
     count = blocks.count()
     print(f"📦 発見した記事数: {count}")
