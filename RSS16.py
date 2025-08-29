@@ -25,12 +25,12 @@ from scraper_utils import extract_items
 BASE_URL = "https://www.jspen.or.jp/news"
 GAKKAI = "日本栄養治療学会"
 
-SELECTOR_TITLE = "body > div.flex.flex-col.relative.flex-1.mt-14 > div.max-w-5xl.mx-auto.w-full.pt-16.pb-24.lg\:pt-20.lg\:pb-40.px-4.md\:px-6.lg\:px-8 > ul li"
-title_selector = "p"
+SELECTOR_TITLE = "li.border-b.border-gray-300"
+title_selector = ""
 title_index = 0
 href_selector = "a"
 href_index = 0
-SELECTOR_DATE = "body > div.flex.flex-col.relative.flex-1.mt-14 > div.max-w-5xl.mx-auto.w-full.pt-16.pb-24.lg\:pt-20.lg\:pb-40.px-4.md\:px-6.lg\:px-8 > ul li"
+SELECTOR_DATE = "li.border-b.border-gray-300"
 date_selector = "span"
 date_index = 0
 year_unit = "."
