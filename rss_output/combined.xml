@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 26 Dec 2025 23:21:39 +0000</lastBuildDate><item><title>【日本泌尿器科学会】【2025-12-25】間質性膀胱炎・膀胱痛症候群について＜患者様用リーフレット＞</title><link>http://www.urol.or.jp/cms/files/info/488/%e9%96%93%e8%b3%aa%e6%80%a7%e8%86%80%e8%83%b1%e7%82%8e%e3%83%bb%e8%86%80%e8%83%b1%e7%97%9b%e7%97%87%e5%80%99%e7%be%a4%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6_%e6%82%a3%e8%80%85%e6%a7%98%e7%94%a8%e3%83%aa%e3%83%bc%e3%83%95%e3%83%ac%e3%83%83%e3%83%88.pdf</link><description>間質性膀胱炎・膀胱痛症候群について＜患者様用リーフレット＞</description><guid isPermaLink="false">http://www.urol.or.jp/cms/files/info/488/%e9%96%93%e8%b3%aa%e6%80%a7%e8%86%80%e8%83%b1%e7%82%8e%e3%83%bb%e8%86%80%e8%83%b1%e7%97%9b%e7%97%87%e5%80%99%e7%be%a4%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6_%e6%82%a3%e8%80%85%e6%a7%98%e7%94%a8%e3%83%aa%e3%83%bc%e3%83%95%e3%83%ac%e3%83%83%e3%83%88.pdf#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本臨床薬理学会】【2025-12-26】CRC専門領域研修 小児科編</title><link>https://www.jscpt.jp/profession/crc/training?sid=crc589</link><description>CRC専門領域研修 小児科編</description><guid isPermaLink="false">https://www.jscpt.jp/profession/crc/training?sid=crc589#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本肝臓学会】【2025-12-25】第46回日本肝臓学会 西部会 講演要旨J-Stage公開のお知らせ</title><link>https://www.jstage.jst.go.jp/browse/kanzo/66/Supplement.3/_contents/-char/ja</link><description>第46回日本肝臓学会 西部会 講演要旨J-Stage公開のお知らせ</description><guid isPermaLink="false">https://www.jstage.jst.go.jp/browse/kanzo/66/Supplement.3/_contents/-char/ja#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本肝臓学会】【2025-12-25】第29回日本肝臓学会 大会 講演要旨J-Stage公開のお知らせ</title><link>https://www.jstage.jst.go.jp/browse/kanzo/66/Supplement.2/_contents/-char/ja</link><description>第29回日本肝臓学会 大会 講演要旨J-Stage公開のお知らせ</description><guid isPermaLink="false">https://www.jstage.jst.go.jp/browse/kanzo/66/Supplement.2/_contents/-char/ja#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2025-12-26】日本医学会からのお知らせ
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 27 Dec 2025 01:28:18 +0000</lastBuildDate><item><title>【日本泌尿器科学会】【2025-12-25】間質性膀胱炎・膀胱痛症候群について＜患者様用リーフレット＞</title><link>http://www.urol.or.jp/cms/files/info/488/%e9%96%93%e8%b3%aa%e6%80%a7%e8%86%80%e8%83%b1%e7%82%8e%e3%83%bb%e8%86%80%e8%83%b1%e7%97%9b%e7%97%87%e5%80%99%e7%be%a4%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6_%e6%82%a3%e8%80%85%e6%a7%98%e7%94%a8%e3%83%aa%e3%83%bc%e3%83%95%e3%83%ac%e3%83%83%e3%83%88.pdf</link><description>間質性膀胱炎・膀胱痛症候群について＜患者様用リーフレット＞</description><guid isPermaLink="false">http://www.urol.or.jp/cms/files/info/488/%e9%96%93%e8%b3%aa%e6%80%a7%e8%86%80%e8%83%b1%e7%82%8e%e3%83%bb%e8%86%80%e8%83%b1%e7%97%9b%e7%97%87%e5%80%99%e7%be%a4%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6_%e6%82%a3%e8%80%85%e6%a7%98%e7%94%a8%e3%83%aa%e3%83%bc%e3%83%95%e3%83%ac%e3%83%83%e3%83%88.pdf#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本臨床薬理学会】【2025-12-26】CRC専門領域研修 小児科編</title><link>https://www.jscpt.jp/profession/crc/training?sid=crc589</link><description>CRC専門領域研修 小児科編</description><guid isPermaLink="false">https://www.jscpt.jp/profession/crc/training?sid=crc589#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本肝臓学会】【2025-12-25】第46回日本肝臓学会 西部会 講演要旨J-Stage公開のお知らせ</title><link>https://www.jstage.jst.go.jp/browse/kanzo/66/Supplement.3/_contents/-char/ja</link><description>第46回日本肝臓学会 西部会 講演要旨J-Stage公開のお知らせ</description><guid isPermaLink="false">https://www.jstage.jst.go.jp/browse/kanzo/66/Supplement.3/_contents/-char/ja#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本肝臓学会】【2025-12-25】第29回日本肝臓学会 大会 講演要旨J-Stage公開のお知らせ</title><link>https://www.jstage.jst.go.jp/browse/kanzo/66/Supplement.2/_contents/-char/ja</link><description>第29回日本肝臓学会 大会 講演要旨J-Stage公開のお知らせ</description><guid isPermaLink="false">https://www.jstage.jst.go.jp/browse/kanzo/66/Supplement.2/_contents/-char/ja#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2025-12-26】日本医学会からのお知らせ
 令和7年12月23日付にて厚生労働省 医政局 研究開発政策課 再生医療等研究推進室より周知依頼
 「特定細胞加工物等の製造の許可証及び認定証の書換え交付及び再交付の電子申請について」「国が行う特定細胞加工物の製造の許可等における登録免許税及び手数料に係る事務処理について」
 ・「特定細胞加工物等の製造の許可証及び認定証の書換え交付及び再交付の電子申請について」（CPC宛）
@@ -77,98 +77,4 @@ https://www.jspho.org/activity/seminar.html#section1</description><guid isPermaL
 小児科診療科長　望月慎史
 カンファレンス担当　七野浩之
 （認定）特定非営利活動法人ジャパンハート　嘉数真理子、神白麻衣子
-2025年12月23日</description><guid isPermaLink="false">mailto:shichino.h@jihs.go.jp#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2025-12-23】「こどものがん治療薬開発シンポジウム」の共同開催について
-一般社団法人日本小児血液・がん学会、独立行政法人医薬品医療機器総合機構（PMDA）、国立研究開発法人国立成育医療研究センター（NCC）、国立研究開発法人国立がん研究センター（NCCHD）、日本製薬工業協会（JPMA）、欧州製薬団体連合会（EFPIA）、米国研究製薬工業協会（PhRMA）は、小児用医薬品、特に抗悪性腫瘍薬の開発促進をテーマとして、小児用抗悪性腫瘍薬の開発に関心のある方々を対象に、各ステークホルダーが抱える実際の課題・問題点を共有し、その解決策を各々の立場から意見交換できる、ステークホルダーが一堂に会した会議を開催したいと考え、「こどものがん治療薬開発シンポジウム」を共同開催いたします。
-成人用の医薬品と比べると、小児用の医薬品の開発は、後手に回ることが多く、また、ドラッグロスの約4割は小児用の医薬品とされています。
-小児用医薬品のドラッグロス解消に向けた開発計画策定の促進のため、成人用の新医薬
-品の承認申請者に対して、小児用医薬品開発の計画策定を努力義務とする改正薬機法が2025年5月に成立しました。今般の小児用医薬品開発の計画策定の努力義務化は、その解決策の一つと期待されているところです。また、PMDAでは、小児・希少疾病用医薬品等薬事相談センターを設置し（2024年7月）、小児用医薬品開発計画確認相談の受付を開始するなど様々な取組みがされています。
-ぜひ、皆様のご参加を心よりお待ち申し上げております。
-【参加登録】
-参加登録締切：2026年1月26日（月曜日）正午
-参加登録フォーム：こちらよりアクセスしてください。
-※現地参加の場合も当日参加登録は行いませんので、必ず事前にオンライン登録をお済ませください。
-【開催概要】
-●日時：2026年1月31日（土）14時～17時（予定）
-（オンライン開場：13時30分、対面開場時刻：調整中）
-●開催形式：ハイブリッド形式（対面及びオンライン）
-●会場：オンデマンド配信：2025年12月2日（火）～ 2026年1月16日（金）
-●会場：国立研究開発法人国立成育医療研究センター 研究所2階 セミナールーム
-●住所：東京都世田谷区大蔵2-10-1
-アクセス：国立研究開発法人国立成育医療研究センターのウェブサイトリンクを参照
-●プログラム：タイムテーブルが決まりましたら、PMDAホームページに掲載予定です。また、講演内容のポイントを纏めたkey visual slide（各講演につき1枚程度）を2026年1月以降に事前掲載予定です。
-・開会挨拶
-・演者4名（PMDA、NCC、JPMA）による講演
-・パネルディスカッション（座長JSPHO、パネリストPMDA、JSPHO、NCC、NCCHD、JPMA、EFPIA Japan）
-・閉会挨拶
-＊事前質問は承っておりません。なお、シンポジウム当日は参加者によるactive poll (voting) （リアルタイム意見共有ツール）の活用を検討中です。
-●参加費：無料
-●定員：500名の予定（うち、対面での参加者は最大70名の予定）
-●参加登録について：
-・参加申込者数が多い場合は、締切日より前に参加登録を打ち切ることがありますこと、ご了承ください。
-対面での参加者は最大70名の予定としております。つきましては、対面参加希望者が多数の場合には、オンライン参加をお願いする場合がありますのでご了承ください。
-・本シンポジウムの運営・管理業務委託業者である、株式会社LIVEUPからのメール（「@liveup.tokyo」からのメール）を受信可能となるよう、ご使用中のメールソフトの設定等にご協力をお願い致します。
-・参加登録をいただいた方（対面参加での登録も含む）には、1月28日（水曜日）10時～17時頃までの間に、株式会社LIVEUPより、Webexの招待状をお送りします。接続数に上限があることから、招待状の転送は禁止いたします。
-・対面参加で登録いただいた方につきましては、シンポジウム当日は、会場受付までお越しください（ご氏名を確認致します）。
-●お問い合わせ
-以下のアドレス宛にメールでご連絡ください。
-（迷惑メール防止対策をしているため、[at]を半角のアットマークに置き換えてください。）
-・参加登録、当日の参加方法についてのご質問：
-メールアドレス：staff[at]liveup.tokyo
-・本シンポジウムの内容についてのご質問：
-メールアドレス：pediatric-cancer-sympo2026[at]pmda.go.jp
-参加登録を行ったものの、1月28日（水曜日）中までに、株式会社LIVEPUPからのWebexの招待状が届いていない場合の連絡先（下記の2つを宛先としてご連絡ください）：
-メールアドレス：staff[at]liveup.tokyo
-メールアドレス：pediatric-cancer-sympo2026[at]pmda.go.jp
-●開催者
-【共催】独立行政法人医薬品医療機器総合機構（PMDA）、一般社団法人日本小児血液・がん学会（JSPHO）、国立研究開発法人国立成育医療研究センター（NCCHD）、国立研究開発法人国立がん研究センター（NCC）、日本製薬工業協会（JPMA）、欧州製薬団体連合会（EFPIA）、米国研究製薬工業協会（PhRMA）
-【後援】公益社団法人日本小児科学会
-●参考
-•PMDA小児用医薬品WGのページ
-•PMDA小児用医薬品シンポジウム「充実した小児薬物療法を目指し、国内外のStakeholderと共に歩む」のページ</title><link>https://forms.gle/x5rF1KbEqEF1UgVH8</link><description>「こどものがん治療薬開発シンポジウム」の共同開催について
-一般社団法人日本小児血液・がん学会、独立行政法人医薬品医療機器総合機構（PMDA）、国立研究開発法人国立成育医療研究センター（NCC）、国立研究開発法人国立がん研究センター（NCCHD）、日本製薬工業協会（JPMA）、欧州製薬団体連合会（EFPIA）、米国研究製薬工業協会（PhRMA）は、小児用医薬品、特に抗悪性腫瘍薬の開発促進をテーマとして、小児用抗悪性腫瘍薬の開発に関心のある方々を対象に、各ステークホルダーが抱える実際の課題・問題点を共有し、その解決策を各々の立場から意見交換できる、ステークホルダーが一堂に会した会議を開催したいと考え、「こどものがん治療薬開発シンポジウム」を共同開催いたします。
-成人用の医薬品と比べると、小児用の医薬品の開発は、後手に回ることが多く、また、ドラッグロスの約4割は小児用の医薬品とされています。
-小児用医薬品のドラッグロス解消に向けた開発計画策定の促進のため、成人用の新医薬
-品の承認申請者に対して、小児用医薬品開発の計画策定を努力義務とする改正薬機法が2025年5月に成立しました。今般の小児用医薬品開発の計画策定の努力義務化は、その解決策の一つと期待されているところです。また、PMDAでは、小児・希少疾病用医薬品等薬事相談センターを設置し（2024年7月）、小児用医薬品開発計画確認相談の受付を開始するなど様々な取組みがされています。
-ぜひ、皆様のご参加を心よりお待ち申し上げております。
-【参加登録】
-参加登録締切：2026年1月26日（月曜日）正午
-参加登録フォーム：こちらよりアクセスしてください。
-※現地参加の場合も当日参加登録は行いませんので、必ず事前にオンライン登録をお済ませください。
-【開催概要】
-●日時：2026年1月31日（土）14時～17時（予定）
-（オンライン開場：13時30分、対面開場時刻：調整中）
-●開催形式：ハイブリッド形式（対面及びオンライン）
-●会場：オンデマンド配信：2025年12月2日（火）～ 2026年1月16日（金）
-●会場：国立研究開発法人国立成育医療研究センター 研究所2階 セミナールーム
-●住所：東京都世田谷区大蔵2-10-1
-アクセス：国立研究開発法人国立成育医療研究センターのウェブサイトリンクを参照
-●プログラム：タイムテーブルが決まりましたら、PMDAホームページに掲載予定です。また、講演内容のポイントを纏めたkey visual slide（各講演につき1枚程度）を2026年1月以降に事前掲載予定です。
-・開会挨拶
-・演者4名（PMDA、NCC、JPMA）による講演
-・パネルディスカッション（座長JSPHO、パネリストPMDA、JSPHO、NCC、NCCHD、JPMA、EFPIA Japan）
-・閉会挨拶
-＊事前質問は承っておりません。なお、シンポジウム当日は参加者によるactive poll (voting) （リアルタイム意見共有ツール）の活用を検討中です。
-●参加費：無料
-●定員：500名の予定（うち、対面での参加者は最大70名の予定）
-●参加登録について：
-・参加申込者数が多い場合は、締切日より前に参加登録を打ち切ることがありますこと、ご了承ください。
-対面での参加者は最大70名の予定としております。つきましては、対面参加希望者が多数の場合には、オンライン参加をお願いする場合がありますのでご了承ください。
-・本シンポジウムの運営・管理業務委託業者である、株式会社LIVEUPからのメール（「@liveup.tokyo」からのメール）を受信可能となるよう、ご使用中のメールソフトの設定等にご協力をお願い致します。
-・参加登録をいただいた方（対面参加での登録も含む）には、1月28日（水曜日）10時～17時頃までの間に、株式会社LIVEUPより、Webexの招待状をお送りします。接続数に上限があることから、招待状の転送は禁止いたします。
-・対面参加で登録いただいた方につきましては、シンポジウム当日は、会場受付までお越しください（ご氏名を確認致します）。
-●お問い合わせ
-以下のアドレス宛にメールでご連絡ください。
-（迷惑メール防止対策をしているため、[at]を半角のアットマークに置き換えてください。）
-・参加登録、当日の参加方法についてのご質問：
-メールアドレス：staff[at]liveup.tokyo
-・本シンポジウムの内容についてのご質問：
-メールアドレス：pediatric-cancer-sympo2026[at]pmda.go.jp
-参加登録を行ったものの、1月28日（水曜日）中までに、株式会社LIVEPUPからのWebexの招待状が届いていない場合の連絡先（下記の2つを宛先としてご連絡ください）：
-メールアドレス：staff[at]liveup.tokyo
-メールアドレス：pediatric-cancer-sympo2026[at]pmda.go.jp
-●開催者
-【共催】独立行政法人医薬品医療機器総合機構（PMDA）、一般社団法人日本小児血液・がん学会（JSPHO）、国立研究開発法人国立成育医療研究センター（NCCHD）、国立研究開発法人国立がん研究センター（NCC）、日本製薬工業協会（JPMA）、欧州製薬団体連合会（EFPIA）、米国研究製薬工業協会（PhRMA）
-【後援】公益社団法人日本小児科学会
-●参考
-•PMDA小児用医薬品WGのページ
-•PMDA小児用医薬品シンポジウム「充実した小児薬物療法を目指し、国内外のStakeholderと共に歩む」のページ</description><guid isPermaLink="false">https://forms.gle/x5rF1KbEqEF1UgVH8#20251223</guid><pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本栄養治療学会】【2025-12-25】2025.12.25お知らせ【結果発表】第3回患者さんのための見た目にも美味しい病院食コンテスト</title><link>https://www.jspen.or.jp/news/information/【結果発表】第3回患者さんのための見た目にも美</link><description>2025.12.25お知らせ【結果発表】第3回患者さんのための見た目にも美味しい病院食コンテスト</description><guid isPermaLink="false">https://www.jspen.or.jp/news/information/【結果発表】第3回患者さんのための見た目にも美#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本栄養治療学会】【2025-12-23】2025.12.23お知らせ事務局年末年始休業のお知らせ</title><link>https://www.jspen.or.jp/news/information/事務局年末年始休業のお知らせ-2</link><description>2025.12.23お知らせ事務局年末年始休業のお知らせ</description><guid isPermaLink="false">https://www.jspen.or.jp/news/information/事務局年末年始休業のお知らせ-2#20251223</guid><pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-26】CJ・CR×ジャーナルクラブオンライン(JCO)　第2弾コラボ動画公開！！</title><link>https://www.j-circ.or.jp/topics/cj%e3%83%bbcrx%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%ab%e3%82%af%e3%83%a9%e3%83%96%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3jco%e3%80%80%e7%ac%ac2%e5%bc%be%e3%82%b3%e3%83%a9%e3%83%9c/</link><description>CJ・CR×ジャーナルクラブオンライン(JCO)　第2弾コラボ動画公開！！</description><guid isPermaLink="false">https://www.j-circ.or.jp/topics/cj%e3%83%bbcrx%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%ab%e3%82%af%e3%83%a9%e3%83%96%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3jco%e3%80%80%e7%ac%ac2%e5%bc%be%e3%82%b3%e3%83%a9%e3%83%9c/#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-26】2025年度実施理事選挙の当選者一覧を掲載しました。</title><link>https://www.j-circ.or.jp/about/election/</link><description>2025年度実施理事選挙の当選者一覧を掲載しました。</description><guid isPermaLink="false">https://www.j-circ.or.jp/about/election/#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-24】日本高血圧学会・日本循環器学会からの緊急声明「冬こそ血圧朝活! -冷えとヒートショックから命を守るために-」</title><link>https://www.jpnsh.jp/topics/849.html</link><description>日本高血圧学会・日本循環器学会からの緊急声明「冬こそ血圧朝活! -冷えとヒートショックから命を守るために-」</description><guid isPermaLink="false">https://www.jpnsh.jp/topics/849.html#20251224</guid><pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-24】事務局年末年始休業に関するお知らせ</title><link>https://www.j-circ.or.jp/topics/%e4%ba%8b%e5%8b%99%e5%b1%80%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e4%bc%91%e6%a5%ad%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-5/</link><description>事務局年末年始休業に関するお知らせ</description><guid isPermaLink="false">https://www.j-circ.or.jp/topics/%e4%ba%8b%e5%8b%99%e5%b1%80%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e4%bc%91%e6%a5%ad%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-5/#20251224</guid><pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-24】厚生労働省による循環器病に関する普及啓発事業委託費による国民の知識調査（結果）</title><link>https://www.j-circ.or.jp/topics/kokumin-chousa202512/</link><description>厚生労働省による循環器病に関する普及啓発事業委託費による国民の知識調査（結果）</description><guid isPermaLink="false">https://www.j-circ.or.jp/topics/kokumin-chousa202512/#20251224</guid><pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本消化管学会】【2025-12-25】外保連より『外保連試案2026』 特別割引のご案内</title><link>https://jpn-ga.or.jp/blog/ct_news-etc/11111/</link><description>外保連より『外保連試案2026』 特別割引のご案内</description><guid isPermaLink="false">https://jpn-ga.or.jp/blog/ct_news-etc/11111/#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本消化管学会】【2025-12-23】冬季休業期間のお知らせ</title><link>https://jpn-ga.or.jp/blog/ct_for-members/11103/</link><description>冬季休業期間のお知らせ</description><guid isPermaLink="false">https://jpn-ga.or.jp/blog/ct_for-members/11103/#20251223</guid><pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本医療薬学会】【2025-12-26】第39回日本医療薬学会年会の運営事務に係る業務委託先募集のお知らせ</title><link>https://www.jsphcs.jp/information/20251226-3/</link><description>第39回日本医療薬学会年会の運営事務に係る業務委託先募集のお知らせ</description><guid isPermaLink="false">https://www.jsphcs.jp/information/20251226-3/#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本医療薬学会】【2025-12-26】第38回日本医療薬学会年会の運営事務に係る業務委託先募集のお知らせ</title><link>https://www.jsphcs.jp/information/20251226-2/</link><description>第38回日本医療薬学会年会の運営事務に係る業務委託先募集のお知らせ</description><guid isPermaLink="false">https://www.jsphcs.jp/information/20251226-2/#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本性感染症学会】【2025-12-25】『日本性感染症学会誌』36巻3号</title><link>http://sti.b-journal.net/index.html?vol=36&amp;no=3</link><description>『日本性感染症学会誌』36巻3号</description><guid isPermaLink="false">http://sti.b-journal.net/index.html?vol=36&amp;no=3#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本性感染症学会】【2025-12-23】購入申込フォーム</title><link>https://business.form-mailer.jp/fms/b73ee3bc324534</link><description>購入申込フォーム</description><guid isPermaLink="false">https://business.form-mailer.jp/fms/b73ee3bc324534#20251223</guid><pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate></item></channel></rss>
+2025年12月23日</description><guid isPermaLink="false">mailto:shichino.h@jihs.go.jp#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本栄養治療学会】【2025-12-25】2025.12.25お知らせ【結果発表】第3回患者さんのための見た目にも美味しい病院食コンテスト</title><link>https://www.jspen.or.jp/news/information/【結果発表】第3回患者さんのための見た目にも美</link><description>2025.12.25お知らせ【結果発表】第3回患者さんのための見た目にも美味しい病院食コンテスト</description><guid isPermaLink="false">https://www.jspen.or.jp/news/information/【結果発表】第3回患者さんのための見た目にも美#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-26】CJ・CR×ジャーナルクラブオンライン(JCO)　第2弾コラボ動画公開！！</title><link>https://www.j-circ.or.jp/topics/cj%e3%83%bbcrx%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%ab%e3%82%af%e3%83%a9%e3%83%96%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3jco%e3%80%80%e7%ac%ac2%e5%bc%be%e3%82%b3%e3%83%a9%e3%83%9c/</link><description>CJ・CR×ジャーナルクラブオンライン(JCO)　第2弾コラボ動画公開！！</description><guid isPermaLink="false">https://www.j-circ.or.jp/topics/cj%e3%83%bbcrx%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%ab%e3%82%af%e3%83%a9%e3%83%96%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3jco%e3%80%80%e7%ac%ac2%e5%bc%be%e3%82%b3%e3%83%a9%e3%83%9c/#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-26】2025年度実施理事選挙の当選者一覧を掲載しました。</title><link>https://www.j-circ.or.jp/about/election/</link><description>2025年度実施理事選挙の当選者一覧を掲載しました。</description><guid isPermaLink="false">https://www.j-circ.or.jp/about/election/#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-24】日本高血圧学会・日本循環器学会からの緊急声明「冬こそ血圧朝活! -冷えとヒートショックから命を守るために-」</title><link>https://www.jpnsh.jp/topics/849.html</link><description>日本高血圧学会・日本循環器学会からの緊急声明「冬こそ血圧朝活! -冷えとヒートショックから命を守るために-」</description><guid isPermaLink="false">https://www.jpnsh.jp/topics/849.html#20251224</guid><pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-24】事務局年末年始休業に関するお知らせ</title><link>https://www.j-circ.or.jp/topics/%e4%ba%8b%e5%8b%99%e5%b1%80%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e4%bc%91%e6%a5%ad%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-5/</link><description>事務局年末年始休業に関するお知らせ</description><guid isPermaLink="false">https://www.j-circ.or.jp/topics/%e4%ba%8b%e5%8b%99%e5%b1%80%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e4%bc%91%e6%a5%ad%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-5/#20251224</guid><pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2025-12-24】厚生労働省による循環器病に関する普及啓発事業委託費による国民の知識調査（結果）</title><link>https://www.j-circ.or.jp/topics/kokumin-chousa202512/</link><description>厚生労働省による循環器病に関する普及啓発事業委託費による国民の知識調査（結果）</description><guid isPermaLink="false">https://www.j-circ.or.jp/topics/kokumin-chousa202512/#20251224</guid><pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本消化管学会】【2025-12-25】外保連より『外保連試案2026』 特別割引のご案内</title><link>https://jpn-ga.or.jp/blog/ct_news-etc/11111/</link><description>外保連より『外保連試案2026』 特別割引のご案内</description><guid isPermaLink="false">https://jpn-ga.or.jp/blog/ct_news-etc/11111/#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本医療薬学会】【2025-12-26】第39回日本医療薬学会年会の運営事務に係る業務委託先募集のお知らせ</title><link>https://www.jsphcs.jp/information/20251226-3/</link><description>第39回日本医療薬学会年会の運営事務に係る業務委託先募集のお知らせ</description><guid isPermaLink="false">https://www.jsphcs.jp/information/20251226-3/#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本医療薬学会】【2025-12-26】第38回日本医療薬学会年会の運営事務に係る業務委託先募集のお知らせ</title><link>https://www.jsphcs.jp/information/20251226-2/</link><description>第38回日本医療薬学会年会の運営事務に係る業務委託先募集のお知らせ</description><guid isPermaLink="false">https://www.jsphcs.jp/information/20251226-2/#20251226</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【日本性感染症学会】【2025-12-25】『日本性感染症学会誌』36巻3号</title><link>http://sti.b-journal.net/index.html?vol=36&amp;no=3</link><description>『日本性感染症学会誌』36巻3号</description><guid isPermaLink="false">http://sti.b-journal.net/index.html?vol=36&amp;no=3#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item></channel></rss>
