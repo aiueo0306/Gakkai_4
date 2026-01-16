@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本小児・血液がん学会トピックス</title><link>https://www.jspho.org/</link><description>日本小児・血液がん学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 16 Jan 2026 05:26:27 +0000</lastBuildDate><item><title>【2026-01-13】小児血液・がんセミナー in Kyoto
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本小児・血液がん学会トピックス</title><link>https://www.jspho.org/</link><description>日本小児・血液がん学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 16 Jan 2026 06:34:24 +0000</lastBuildDate><item><title>【2026-01-13】小児血液・がんセミナー in Kyoto
 日時：2026年3月7日（土）13:45〜16:15
 https://www.jspho.org/activity/seminar.html#section1 </title><link>https://www.jspho.org/activity/seminar.html#section1</link><description>小児血液・がんセミナー in Kyoto
 日時：2026年3月7日（土）13:45〜16:15
@@ -29,4 +29,14 @@ https://www.mhlw.go.jp/stf/newpage_56813.html
 〒100-8916 東京都千代田区霞が関1-2-2
 電話番号：03-5253-1111（内線2758）
 夜間直通：03-3595-2435
-E-mail：miyazaki-shougo.ix0@mhlw.go.jp</description><guid isPermaLink="false">https://www.jspho.org/files/oshirase/20260115.pdf#20260115</guid><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate></item></channel></rss>
+E-mail：miyazaki-shougo.ix0@mhlw.go.jp</description><guid isPermaLink="false">https://www.jspho.org/files/oshirase/20260115.pdf#20260115</guid><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate></item><item><title>【2026-01-16】TCCSG冬季例会
+日本小児血液・がん学会
+東京都小児・AYA世代がん診療連携協議会
+東京小児がん研究グループ（TCCSG）共同開催
+日時：2025年2月7日（土曜日）13:00〜16:30
+https://www.jspho.org/activity/seminar.html#section1 </title><link>https://www.jspho.org/activity/seminar.html#section1</link><description>TCCSG冬季例会
+日本小児血液・がん学会
+東京都小児・AYA世代がん診療連携協議会
+東京小児がん研究グループ（TCCSG）共同開催
+日時：2025年2月7日（土曜日）13:00〜16:30
+https://www.jspho.org/activity/seminar.html#section1</description><guid isPermaLink="false">https://www.jspho.org/activity/seminar.html#section1#20260116</guid><pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate></item></channel></rss>
