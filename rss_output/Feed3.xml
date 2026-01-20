@@ -1,12 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本小児・血液がん学会トピックス</title><link>https://www.jspho.org/</link><description>日本小児・血液がん学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 19 Jan 2026 23:22:01 +0000</lastBuildDate><item><title>【2026-01-16】TCCSG冬季例会
-日本小児血液・がん学会
-東京都小児・AYA世代がん診療連携協議会
-東京小児がん研究グループ（TCCSG）共同開催
-日時：2025年2月7日（土曜日）13:00〜16:30
-https://www.jspho.org/activity/seminar.html#section1 </title><link>https://www.jspho.org/activity/seminar.html#section1</link><description>TCCSG冬季例会
-日本小児血液・がん学会
-東京都小児・AYA世代がん診療連携協議会
-東京小児がん研究グループ（TCCSG）共同開催
-日時：2025年2月7日（土曜日）13:00〜16:30
-https://www.jspho.org/activity/seminar.html#section1</description><guid isPermaLink="false">https://www.jspho.org/activity/seminar.html#section1#20260116</guid><pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本小児・血液がん学会トピックス</title><link>https://www.jspho.org/</link><description>日本小児・血液がん学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 20 Jan 2026 01:32:05 +0000</lastBuildDate></channel></rss>
