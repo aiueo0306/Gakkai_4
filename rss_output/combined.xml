@@ -1,5 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 18 Feb 2026 02:05:59 +0000</lastBuildDate><item><title>【日本頭痛学会】【2026-02-16】2025年度役員（理事）選出選挙 現職理事立候補者名簿および抱負を掲載しました。</title><link>https://www.jhsnet.net/pdf/rikkouho__2025.pdf</link><description>2025年度役員（理事）選出選挙 現職理事立候補者名簿および抱負を掲載しました。</description><guid isPermaLink="false">https://www.jhsnet.net/pdf/rikkouho__2025.pdf#20260216</guid><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本消化管学会】【2026-02-17】GI Week 2026前後期間中のお問合せについて</title><link>https://jpn-ga.or.jp/blog/ct_for-members/11236/</link><description>GI Week 2026前後期間中のお問合せについて</description><guid isPermaLink="false">https://jpn-ga.or.jp/blog/ct_for-members/11236/#20260217</guid><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-16】日本小児血液がん学会 東北地区セミナー
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 18 Feb 2026 04:55:34 +0000</lastBuildDate><item><title>【日本頭痛学会】【2026-02-16】2025年度役員（理事）選出選挙 現職理事立候補者名簿および抱負を掲載しました。</title><link>https://www.jhsnet.net/pdf/rikkouho__2025.pdf</link><description>2025年度役員（理事）選出選挙 現職理事立候補者名簿および抱負を掲載しました。</description><guid isPermaLink="false">https://www.jhsnet.net/pdf/rikkouho__2025.pdf#20260216</guid><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本消化管学会】【2026-02-17】GI Week 2026前後期間中のお問合せについて</title><link>https://jpn-ga.or.jp/blog/ct_for-members/11236/</link><description>GI Week 2026前後期間中のお問合せについて</description><guid isPermaLink="false">https://jpn-ga.or.jp/blog/ct_for-members/11236/#20260217</guid><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-18】日本医学会からのお知らせ
+令和8年2月13日付にて厚生労働省医薬局医薬品審査管理課より
+最適使用推進ガイドラインの取扱いに関する質疑応答集（Q&amp;A）について
+・080213_事_最適使用推進ガイドラインの取扱いに関するQ&amp;A（別記団体宛て）
+【お問合せ先】
+厚生労働省 医薬局医薬品審査管理課
+〒100-8916 東京都千代田区霞ヶ関1-2-2
+TEL：03-5253-1111（代表）
+担当：西方様（内線：2745）</title><link>https://www.jspho.org/files/oshirase/20260218_2.pdf</link><description>日本医学会からのお知らせ
+令和8年2月13日付にて厚生労働省医薬局医薬品審査管理課より
+最適使用推進ガイドラインの取扱いに関する質疑応答集（Q&amp;amp;A）について
+・080213_事_最適使用推進ガイドラインの取扱いに関するQ&amp;amp;A（別記団体宛て）
+【お問合せ先】
+厚生労働省 医薬局医薬品審査管理課
+〒100-8916 東京都千代田区霞ヶ関1-2-2
+TEL：03-5253-1111（代表）
+担当：西方様（内線：2745）</description><guid isPermaLink="false">https://www.jspho.org/files/oshirase/20260218_2.pdf#20260218</guid><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-18】日本医学会からのお知らせ
+令和8年2月16日付にて厚生労働省　医政局地域医療計画課医療安全推進・医務指導室より「病院等において把握すべき重大事象の類型化について」周知依頼
+・病院等において把握すべき重大事象の類型化について（写）
+・【通知】「病院等において把握すべき重大事象の類型化について」
+・【別添】「医療機関の特性に応じて求められる医療安全活動及び必要な組織体制等に関する研究」報告書
+【お問合せ先】
+厚生労働省医政局地域医療計画課
+医療安全推進・医務指導室
+E-mail：IRYOUANZEN@mhlw.go.jp</title><link>https://www.jspho.org/files/oshirase/20260218a.pdf</link><description>日本医学会からのお知らせ
+令和8年2月16日付にて厚生労働省　医政局地域医療計画課医療安全推進・医務指導室より「病院等において把握すべき重大事象の類型化について」周知依頼
+・病院等において把握すべき重大事象の類型化について（写）
+・【通知】「病院等において把握すべき重大事象の類型化について」
+・【別添】「医療機関の特性に応じて求められる医療安全活動及び必要な組織体制等に関する研究」報告書
+【お問合せ先】
+厚生労働省医政局地域医療計画課
+医療安全推進・医務指導室
+E-mail：IRYOUANZEN@mhlw.go.jp</description><guid isPermaLink="false">https://www.jspho.org/files/oshirase/20260218a.pdf#20260218</guid><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-18】国立研究開発法人日本医療研究開発機構からのお知らせ
+■開催概要
+日英共同シンポジウム『Japan-UK Symposium on children and young people's cancer in Tokyo』
+日時：令和8年2月23日（月）10時～17時15分
+参加方法：オンライン
+テーマ：小児・AYA世代のがん研究
+主催：国立研究開発法人日本医療研究開発機構（AMED）
+英国国立保健医療研究所（NIHR）
+■ シンポジウムの詳細及び参加申込URL
+https://www.amed.go.jp/news/event/UK-JapanSymposium20260223.html
+※参加無料／事前登録制／全編英語</title><link>https://www.amed.go.jp/news/event/UK-JapanSymposium20260223.html</link><description>国立研究開発法人日本医療研究開発機構からのお知らせ
+■開催概要
+日英共同シンポジウム『Japan-UK Symposium on children and young people's cancer in Tokyo』
+日時：令和8年2月23日（月）10時～17時15分
+参加方法：オンライン
+テーマ：小児・AYA世代のがん研究
+主催：国立研究開発法人日本医療研究開発機構（AMED）
+英国国立保健医療研究所（NIHR）
+■ シンポジウムの詳細及び参加申込URL
+https://www.amed.go.jp/news/event/UK-JapanSymposium20260223.html
+※参加無料／事前登録制／全編英語</description><guid isPermaLink="false">https://www.amed.go.jp/news/event/UK-JapanSymposium20260223.html#20260218</guid><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-16】日本小児血液がん学会 東北地区セミナー
 日時：2026年3月24日（火）18:00〜20:00
 Zoom Webinar 配信 参加無料（要事前登録）
 詳細は下記ページよりご確認願います
