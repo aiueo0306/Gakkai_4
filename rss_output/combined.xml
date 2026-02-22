@@ -1,60 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 21 Feb 2026 23:26:03 +0000</lastBuildDate><item><title>【日本エイズ学会】【2026-02-19】第11回APACC 2026（アジア太平洋地域エイズ重複感染症会議）の会場決定のお知らせ</title><link>https://jaids.jp/news/%e7%ac%ac11%e5%9b%9eapacc-2026%ef%bc%88%e3%82%a2%e3%82%b8%e3%82%a2%e5%a4%aa%e5%b9%b3%e6%b4%8b%e5%9c%b0%e5%9f%9f%e3%82%a8%e3%82%a4%e3%82%ba%e9%87%8d%e8%a4%87%e6%84%9f%e6%9f%93%e7%97%87%e4%bc%9a-2/</link><description>第11回APACC 2026（アジア太平洋地域エイズ重複感染症会議）の会場決定のお知らせ</description><guid isPermaLink="false">https://jaids.jp/news/%e7%ac%ac11%e5%9b%9eapacc-2026%ef%bc%88%e3%82%a2%e3%82%b8%e3%82%a2%e5%a4%aa%e5%b9%b3%e6%b4%8b%e5%9c%b0%e5%9f%9f%e3%82%a8%e3%82%a4%e3%82%ba%e9%87%8d%e8%a4%87%e6%84%9f%e6%9f%93%e7%97%87%e4%bc%9a-2/#20260219</guid><pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本臨床薬理学会】【2026-02-18】臨床薬理試験研究会の開催のお知らせ</title><link>https://www.jscpt.jp/cms/wp-content/uploads/2026/02/20260218oshirase.pdf</link><description>臨床薬理試験研究会の開催のお知らせ</description><guid isPermaLink="false">https://www.jscpt.jp/cms/wp-content/uploads/2026/02/20260218oshirase.pdf#20260218</guid><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-19】日本医学会連合からのお知らせ
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 22 Feb 2026 02:04:06 +0000</lastBuildDate><item><title>【日本エイズ学会】【2026-02-19】第11回APACC 2026（アジア太平洋地域エイズ重複感染症会議）の会場決定のお知らせ</title><link>https://jaids.jp/news/%e7%ac%ac11%e5%9b%9eapacc-2026%ef%bc%88%e3%82%a2%e3%82%b8%e3%82%a2%e5%a4%aa%e5%b9%b3%e6%b4%8b%e5%9c%b0%e5%9f%9f%e3%82%a8%e3%82%a4%e3%82%ba%e9%87%8d%e8%a4%87%e6%84%9f%e6%9f%93%e7%97%87%e4%bc%9a-2/</link><description>第11回APACC 2026（アジア太平洋地域エイズ重複感染症会議）の会場決定のお知らせ</description><guid isPermaLink="false">https://jaids.jp/news/%e7%ac%ac11%e5%9b%9eapacc-2026%ef%bc%88%e3%82%a2%e3%82%b8%e3%82%a2%e5%a4%aa%e5%b9%b3%e6%b4%8b%e5%9c%b0%e5%9f%9f%e3%82%a8%e3%82%a4%e3%82%ba%e9%87%8d%e8%a4%87%e6%84%9f%e6%9f%93%e7%97%87%e4%bc%9a-2/#20260219</guid><pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-19】日本医学会連合からのお知らせ
 「加盟学会連携フォーラム共催事業」の募集について
 詳細は下記ページよりご確認ください。
 https://www.jspho.org/activity/files_index.html#20260219</title><link>https://www.jspho.org/activity/files_index.html#20260219</link><description>日本医学会連合からのお知らせ
 「加盟学会連携フォーラム共催事業」の募集について
 詳細は下記ページよりご確認ください。
-https://www.jspho.org/activity/files_index.html#20260219</description><guid isPermaLink="false">https://www.jspho.org/activity/files_index.html#20260219#20260219</guid><pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-18】日本医学会からのお知らせ
-令和8年2月13日付にて厚生労働省医薬局医薬品審査管理課より
-最適使用推進ガイドラインの取扱いに関する質疑応答集（Q&amp;A）について
-・080213_事_最適使用推進ガイドラインの取扱いに関するQ&amp;A（別記団体宛て）
-【お問合せ先】
-厚生労働省 医薬局医薬品審査管理課
-〒100-8916 東京都千代田区霞ヶ関1-2-2
-TEL：03-5253-1111（代表）
-担当：西方様（内線：2745）</title><link>https://www.jspho.org/files/oshirase/20260218_2.pdf</link><description>日本医学会からのお知らせ
-令和8年2月13日付にて厚生労働省医薬局医薬品審査管理課より
-最適使用推進ガイドラインの取扱いに関する質疑応答集（Q&amp;amp;A）について
-・080213_事_最適使用推進ガイドラインの取扱いに関するQ&amp;amp;A（別記団体宛て）
-【お問合せ先】
-厚生労働省 医薬局医薬品審査管理課
-〒100-8916 東京都千代田区霞ヶ関1-2-2
-TEL：03-5253-1111（代表）
-担当：西方様（内線：2745）</description><guid isPermaLink="false">https://www.jspho.org/files/oshirase/20260218_2.pdf#20260218</guid><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-18】日本医学会からのお知らせ
-令和8年2月16日付にて厚生労働省　医政局地域医療計画課医療安全推進・医務指導室より「病院等において把握すべき重大事象の類型化について」周知依頼
-・病院等において把握すべき重大事象の類型化について（写）
-・【通知】「病院等において把握すべき重大事象の類型化について」
-・【別添】「医療機関の特性に応じて求められる医療安全活動及び必要な組織体制等に関する研究」報告書
-【お問合せ先】
-厚生労働省医政局地域医療計画課
-医療安全推進・医務指導室
-E-mail：IRYOUANZEN@mhlw.go.jp</title><link>https://www.jspho.org/files/oshirase/20260218a.pdf</link><description>日本医学会からのお知らせ
-令和8年2月16日付にて厚生労働省　医政局地域医療計画課医療安全推進・医務指導室より「病院等において把握すべき重大事象の類型化について」周知依頼
-・病院等において把握すべき重大事象の類型化について（写）
-・【通知】「病院等において把握すべき重大事象の類型化について」
-・【別添】「医療機関の特性に応じて求められる医療安全活動及び必要な組織体制等に関する研究」報告書
-【お問合せ先】
-厚生労働省医政局地域医療計画課
-医療安全推進・医務指導室
-E-mail：IRYOUANZEN@mhlw.go.jp</description><guid isPermaLink="false">https://www.jspho.org/files/oshirase/20260218a.pdf#20260218</guid><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本小児・血液がん学会】【2026-02-18】国立研究開発法人日本医療研究開発機構からのお知らせ
-■開催概要
-日英共同シンポジウム『Japan-UK Symposium on children and young people's cancer in Tokyo』
-日時：令和8年2月23日（月）10時～17時15分
-参加方法：オンライン
-テーマ：小児・AYA世代のがん研究
-主催：国立研究開発法人日本医療研究開発機構（AMED）
-英国国立保健医療研究所（NIHR）
-■ シンポジウムの詳細及び参加申込URL
-https://www.amed.go.jp/news/event/UK-JapanSymposium20260223.html
-※参加無料／事前登録制／全編英語</title><link>https://www.amed.go.jp/news/event/UK-JapanSymposium20260223.html</link><description>国立研究開発法人日本医療研究開発機構からのお知らせ
-■開催概要
-日英共同シンポジウム『Japan-UK Symposium on children and young people's cancer in Tokyo』
-日時：令和8年2月23日（月）10時～17時15分
-参加方法：オンライン
-テーマ：小児・AYA世代のがん研究
-主催：国立研究開発法人日本医療研究開発機構（AMED）
-英国国立保健医療研究所（NIHR）
-■ シンポジウムの詳細及び参加申込URL
-https://www.amed.go.jp/news/event/UK-JapanSymposium20260223.html
-※参加無料／事前登録制／全編英語</description><guid isPermaLink="false">https://www.amed.go.jp/news/event/UK-JapanSymposium20260223.html#20260218</guid><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本栄養治療学会】【2026-02-20】2026.02.20セミナー情報2026年のLLLライブコース開催スケジュールのご案内</title><link>https://www.jspen.or.jp/news/seminar-news/2026年のlllライブコース開催スケジュールのご案内</link><description>2026.02.20セミナー情報2026年のLLLライブコース開催スケジュールのご案内</description><guid isPermaLink="false">https://www.jspen.or.jp/news/seminar-news/2026年のlllライブコース開催スケジュールのご案内#20260220</guid><pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2026-02-19】JCS2026 一般向けイベント『SUWAN QUEST (健康ハートフェス in 福岡)』</title><link>https://www.j-circ.or.jp/topics/jcs2026-%e4%b8%80%e8%88%ac%e5%90%91%e3%81%91%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%8esuwan-quest-%e5%81%a5%e5%ba%b7%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%82%a7%e3%82%b9-in-%e7%a6%8f%e5%b2%a1/</link><description>JCS2026 一般向けイベント『SUWAN QUEST (健康ハートフェス in 福岡)』</description><guid isPermaLink="false">https://www.j-circ.or.jp/topics/jcs2026-%e4%b8%80%e8%88%ac%e5%90%91%e3%81%91%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%8esuwan-quest-%e5%81%a5%e5%ba%b7%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%82%a7%e3%82%b9-in-%e7%a6%8f%e5%b2%a1/#20260219</guid><pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2026-02-19】「⼼臓突然死を減らすための取り組みに関するステー ト メント」の広報⽤チラシを作成しました</title><link>https://www.j-circ.or.jp/committees/yobou/#t03</link><description>「⼼臓突然死を減らすための取り組みに関するステー ト メント」の広報⽤チラシを作成しました</description><guid isPermaLink="false">https://www.j-circ.or.jp/committees/yobou/#t03#20260219</guid><pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate></item></channel></rss>
+https://www.jspho.org/activity/files_index.html#20260219</description><guid isPermaLink="false">https://www.jspho.org/activity/files_index.html#20260219#20260219</guid><pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本栄養治療学会】【2026-02-20】2026.02.20セミナー情報2026年のLLLライブコース開催スケジュールのご案内</title><link>https://www.jspen.or.jp/news/seminar-news/2026年のlllライブコース開催スケジュールのご案内</link><description>2026.02.20セミナー情報2026年のLLLライブコース開催スケジュールのご案内</description><guid isPermaLink="false">https://www.jspen.or.jp/news/seminar-news/2026年のlllライブコース開催スケジュールのご案内#20260220</guid><pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2026-02-19】JCS2026 一般向けイベント『SUWAN QUEST (健康ハートフェス in 福岡)』</title><link>https://www.j-circ.or.jp/topics/jcs2026-%e4%b8%80%e8%88%ac%e5%90%91%e3%81%91%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%8esuwan-quest-%e5%81%a5%e5%ba%b7%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%82%a7%e3%82%b9-in-%e7%a6%8f%e5%b2%a1/</link><description>JCS2026 一般向けイベント『SUWAN QUEST (健康ハートフェス in 福岡)』</description><guid isPermaLink="false">https://www.j-circ.or.jp/topics/jcs2026-%e4%b8%80%e8%88%ac%e5%90%91%e3%81%91%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%8esuwan-quest-%e5%81%a5%e5%ba%b7%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%82%a7%e3%82%b9-in-%e7%a6%8f%e5%b2%a1/#20260219</guid><pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本循環器学会】【2026-02-19】「⼼臓突然死を減らすための取り組みに関するステー ト メント」の広報⽤チラシを作成しました</title><link>https://www.j-circ.or.jp/committees/yobou/#t03</link><description>「⼼臓突然死を減らすための取り組みに関するステー ト メント」の広報⽤チラシを作成しました</description><guid isPermaLink="false">https://www.j-circ.or.jp/committees/yobou/#t03#20260219</guid><pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate></item></channel></rss>
