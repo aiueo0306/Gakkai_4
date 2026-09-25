@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 25 Sep 2026 05:51:59 +0000</lastBuildDate><item><title>【日本小児・血液がん学会】【2026-09-25】学術集会時 臨時社員総会のお知らせ
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 25 Sep 2026 11:11:58 +0000</lastBuildDate><item><title>【日本小児・血液がん学会】【2026-09-25】学術集会時 臨時社員総会のお知らせ
 評議員、名誉会員の先生方はご予定をお願いいたします。
 2026年11月13日（金）8:10～8:40（第1会場）
 開催方式：現地＋オンライン</title><link>https://www.jspho.org/</link><description>学術集会時 臨時社員総会のお知らせ
