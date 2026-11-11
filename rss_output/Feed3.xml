@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本小児・血液がん学会トピックス</title><link>https://www.jspho.org/</link><description>日本小児・血液がん学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 10 Nov 2026 22:53:00 +0000</lastBuildDate><item><title>【2026-11-09】「小児・AYAがんの児童生徒のための教育支援テキストQ＆A」公開のご案内
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本小児・血液がん学会トピックス</title><link>https://www.jspho.org/</link><description>日本小児・血液がん学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 11 Nov 2026 02:34:24 +0000</lastBuildDate><item><title>【2026-11-09】「小児・AYAがんの児童生徒のための教育支援テキストQ＆A」公開のご案内
 NPO法人全国小児がん協会より、「小児・AYAがんの児童生徒のための教育支援テキストQ＆A」公開のご案内がありましたので、お知らせいたします。
 本テキストは、小児・AYAがんの児童生徒が、病気や治療によって学びを途切れさせることなく、切れ目のない教育を受けられることを願い、医療者、教育関係者、経験者・保護者等が検討を重ねて作成したものです。
 主に地域の学校の先生方を対象に、小児がんの治療、治療中の教育、復学・進学、子どもや保護者の気持ちなどについて、66項目のQ＆Aにまとめられており、実際の経験を紹介するコラムも掲載されています。
@@ -19,4 +19,22 @@ NPO法人全国小児がん協会より、「小児・AYAがんの児童生徒�
 ＜お問い合わせ先＞
 NPO法人全国小児がん協会
 教育環境整備ワーキンググループ代表　斉藤淑子
-E-mail：info-cconso@ncco-jp.com</description><guid isPermaLink="false">https://ncco-jp.com/news/education/2026/361/#20261109</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate></item></channel></rss>
+E-mail：info-cconso@ncco-jp.com</description><guid isPermaLink="false">https://ncco-jp.com/news/education/2026/361/#20261109</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【2026-11-11】日本医学会からのお知らせ
+「医薬品の適応外使用に係る保険診療上の取扱いについて」
+保険診療における医薬品の取扱いについては、厚生労働大臣が承認した効能又は効果、用法及び用量（以下「効能効果等」という。）によることとされておりますが、いわゆる「55年通知」（添付資料2を参照）によれば、有効性及び安全性の確認された医薬品（副作用報告義務期間又は再審査の終了した医薬品）が薬理作用に基づき処方された場合には、診療報酬明細書の審査に当たり、学術的に正しく、また、全国統一的な対応が求められているところであります。
+そこで、日本医学会としては、平成24年11月29日付け医学会発（第56号）にてご案内申し上げたとおり、薬理作用に基づく医薬品の適応外使用事例として診療報酬明細書の審査に当たり認められるべき事例を随時募集することとし、収集した事例については定期的に厚生労働省に提示をして解決を求めることとしております。
+本件については、厚生労働省からの付託を受け、社会保険診療報酬支払基金に設置されている「審査情報提供検討委員会」にて検討が行われておりますが、今般、添付資料1に示されている10例の適応外使用事例が診療報酬明細書の審査に当たり認められることとなり、審査情報提供事例として公表されましたので、ご報告申し上げます。
+・別紙1医薬品の適応外使用に係る保険診療上の取扱いについて
+・【添付資料1】医薬品の適応外使用に係る保険診療上の取扱いについて（日本医学会分科会宛て）
+・【添付資料2】55年通知 </title><link>https://www.jspho.org/files/oshirase/20261111a.pdf</link><description>日本医学会からのお知らせ
+「医薬品の適応外使用に係る保険診療上の取扱いについて」
+保険診療における医薬品の取扱いについては、厚生労働大臣が承認した効能又は効果、用法及び用量（以下「効能効果等」という。）によることとされておりますが、いわゆる「55年通知」（添付資料2を参照）によれば、有効性及び安全性の確認された医薬品（副作用報告義務期間又は再審査の終了した医薬品）が薬理作用に基づき処方された場合には、診療報酬明細書の審査に当たり、学術的に正しく、また、全国統一的な対応が求められているところであります。
+そこで、日本医学会としては、平成24年11月29日付け医学会発（第56号）にてご案内申し上げたとおり、薬理作用に基づく医薬品の適応外使用事例として診療報酬明細書の審査に当たり認められるべき事例を随時募集することとし、収集した事例については定期的に厚生労働省に提示をして解決を求めることとしております。
+本件については、厚生労働省からの付託を受け、社会保険診療報酬支払基金に設置されている「審査情報提供検討委員会」にて検討が行われておりますが、今般、添付資料1に示されている10例の適応外使用事例が診療報酬明細書の審査に当たり認められることとなり、審査情報提供事例として公表されましたので、ご報告申し上げます。
+・別紙1医薬品の適応外使用に係る保険診療上の取扱いについて
+・【添付資料1】医薬品の適応外使用に係る保険診療上の取扱いについて（日本医学会分科会宛て）
+・【添付資料2】55年通知</description><guid isPermaLink="false">https://www.jspho.org/files/oshirase/20261111a.pdf#20261111</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【2026-11-11】日本医療研究開発機構(AMED)
+【令和9年度「革新的がん医療実用化研究事業（日本・英国共同研究『Japan-UK collaborative clinical trials on children and young people’s (CYP) cancers』）」に係る公募について】
+https://www.jspho.org/activity/files_index.html#20261111 </title><link>https://www.jspho.org/activity/files_index.html#20261111</link><description>日本医療研究開発機構(AMED)
+【令和9年度「革新的がん医療実用化研究事業（日本・英国共同研究『Japan-UK collaborative clinical trials on children and young people’s (CYP) cancers』）」に係る公募について】
+https://www.jspho.org/activity/files_index.html#20261111</description><guid isPermaLink="false">https://www.jspho.org/activity/files_index.html#20261111#20261111</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate></item></channel></rss>
